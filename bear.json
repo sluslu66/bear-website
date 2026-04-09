@@ -1,0 +1,6 @@
+{
+"name": "Bear",
+"type": "Mammal",
+"habitat": ["Forest", "Arctic", "Mountain"],
+"diet": "Omnivore"
+}
